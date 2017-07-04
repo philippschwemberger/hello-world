@@ -4,7 +4,7 @@
   "description": "first repo",
   "main": "test.js",
   "scripts": {
-    "test": "node test.js"
+    "test": ""
   },
   "repository": {
     "type": "git",
